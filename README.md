@@ -1,2 +1,2 @@
 # ToDoApp
-to to app with django
+to do app with django
